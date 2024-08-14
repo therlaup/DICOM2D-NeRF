@@ -1,8 +1,10 @@
-# DICOM to D-NeRF converter
+# DICOM to D-NeRF conversion
 
 ## Project Overview
 
 The DICOM to D-NeRF converter is a python script focused on analyzing and processing rotational angiography data in DICOM format containing ECG and frame iamge data. The script aims to provide tools for calculating R-R intervals and frame timings in cardiac imaging.
+
+The code was tested on a rotational angiography dataset from a Philips Azurion system.
 
 A sample DICOM dataset can be downloaded from: [Sample DICOM dataset](https://drive.google.com/file/d/1Mu3FwYE_tJ1GG7hFb_MqmjjNYqcXIkys/view?usp=sharing).
 
