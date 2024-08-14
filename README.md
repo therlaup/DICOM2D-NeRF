@@ -8,7 +8,7 @@ The code was tested on a rotational angiography dataset from a Philips Azurion s
 
 A sample DICOM dataset can be downloaded from: [Sample DICOM dataset](https://drive.google.com/file/d/1Mu3FwYE_tJ1GG7hFb_MqmjjNYqcXIkys/view?usp=sharing).
 
-
+The output of the script can be visualized using the viewer available here: https://github.com/xt4d/CameraViewer
 
 ## Features
 
