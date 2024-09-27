@@ -23,8 +23,8 @@ The output of the script can be visualized using the viewer available here: http
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/Synthangio.git
-   cd Synthangio
+   git clone https://github.com/therlaup/DICOM2D-NeRF.git
+   cd DICOM2D-NeRF
    ```
 
 2. Set up a virtual environment (recommended):
